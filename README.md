@@ -18,3 +18,7 @@ Official wapuu of WordCamp Sevilla 2023
 
 * Author: Nilo Vélez
 * Author website: https://www.nilovelez.com/
+
+---
+
+"わぷー(Wapuu)" is ja.wordpress.org official character. "わぷー(Wapuu)" was designed by [Kazuko Kaneuchi](http://blog.cgfm.jp/mutsuki/) under GPL v2 license or any later version.
