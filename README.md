@@ -4,8 +4,8 @@
 
 <img src="Pepe/WapuuPepe.svg" alt="WapuuPepe" width="200"> <img src="Pepa/WapuuPepa.svg" alt="WapuuPepa" width="200">
 
-Oficial wapuus of WordCamp Europe 2015
-Adopted by the WordPress Sevilla community.
+Oficial wapuus of WordCamp Europe 2015.\
+They were adopted by the WordPress Sevilla community and are still used.
 
 * Author: Arantza Respaldiza
 * Author website: https://marh.es/
