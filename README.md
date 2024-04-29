@@ -2,7 +2,7 @@
 
 ## WapuuPepe & WapuuPepa
 
-![WapuuPepe](Pepe/WapuuPepe.png?raw=true "Wapuupepe")
+<img src="Pepe/WapuuPepe.png?raw=true" alt="Wapuupepe" width="200">
 
 Oficial wapuus of WordCamp Europe 2015
 Adopted by the WordPress Sevilla communitu.
